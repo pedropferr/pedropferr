@@ -8,7 +8,7 @@ I've been building web applications, REST APIs and database-driven systems for 6
 
 - Working as a **Back-end Software Engineer** at RGC Consultoria Engenharia, building REST APIs and backend services for enterprise web applications with **Java and Spring Boot**
 - Implementing asynchronous messaging with **Amazon SQS and SNS**
-- Using AI coding tools (**Claude Code**, **Codex**) in my development workflow
+- Using AI coding tools (**Claude Code**) in my development workflow
 
 ## ⚡ Technologies
 
